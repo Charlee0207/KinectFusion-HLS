@@ -179,4 +179,4 @@ g++ -o ./src/logColReduce ./src/logColReduce.cpp
 
 ## License
 
-We use code from [SLAMBench1](https://github.com/pamela-project/slambench1) and [Computer Systems Lab - University of Thessaly](https://github.com/csl-uth/KinectFusion-fpga/tree/main) repositories, which each one retains its original license. 
+The code from [SLAMBench1](https://github.com/pamela-project/slambench1) and [Computer Systems Lab - University of Thessaly](https://github.com/csl-uth/KinectFusion-fpga/tree/main) repositories are used, which each one retains its original license. 
