@@ -1,4 +1,4 @@
-# Kinect Fusion: HW Implementation and Acceleration of a Dense SLAM Algorithm![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/762a848d-4f72-477a-8794-2cc62a735642)
+# Kinect Fusion: HW Implementation and Acceleration of a Dense SLAM Algorithm
 
 Developed by Lee Cheng-Hao during the 2023 ITRI EOSL Summer Intern Program.
 
