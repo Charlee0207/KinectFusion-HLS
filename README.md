@@ -1,4 +1,4 @@
-# Kinect Fusion: HW Implementation and Acceleration of a Dense SLAM Algorithm
+# Kinect Fusion: FPGA Implementation and Acceleration of a Dense SLAM Algorithm
 
 Developed by Lee Cheng-Hao during the 2023 ITRI EOSL Summer Intern Program.
 
