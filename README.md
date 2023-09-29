@@ -185,10 +185,8 @@ https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/53e0ae62-65af-4d
 https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/c129b0ce-56f3-4c77-bd58-e3ead15a39b8
 
 ### The Performace and Utilization
-![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/bb398bef-76eb-414e-9ba4-3f1afd931af9)
-![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/b08e307b-e5bd-457e-9dd0-1e6a9d513115)
-
-
+|![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/bb398bef-76eb-414e-9ba4-3f1afd931af9)|![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/b08e307b-e5bd-457e-9dd0-1e6a9d513115)|
+|---|---|
 
 
 ## License
