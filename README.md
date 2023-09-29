@@ -177,6 +177,20 @@ g++ -o ./src/logColReduce ./src/logColReduce.cpp
 ./src/checkKernels.py ./kernel_timings.log
 ```
 
+### The Program Demo in Runtime
+https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/53e0ae62-65af-4d8a-bc4c-df7d66012c22
+
+
+### The Reconstructed Scenario
+https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/c129b0ce-56f3-4c77-bd58-e3ead15a39b8
+
+### The Performace and Utilization
+![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/bb398bef-76eb-414e-9ba4-3f1afd931af9)
+![image](https://github.com/Charlee0207/KinectFusion-HLS/assets/85032763/b08e307b-e5bd-457e-9dd0-1e6a9d513115)
+
+
+
+
 ## License
 
 The code from [SLAMBench1](https://github.com/pamela-project/slambench1) and [Computer Systems Lab - University of Thessaly](https://github.com/csl-uth/KinectFusion-fpga/tree/main) repositories are used, which each one retains its original license. 
